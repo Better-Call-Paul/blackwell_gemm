@@ -1,0 +1,12 @@
+*.i
+*.ii
+*.gpu
+*.ptx
+*.cubin
+*.fatbin
+.claude
+__pycache__
+src/experiments/images/
+optimizations_todo.md
+src/benchmark
+src/bench_logs
